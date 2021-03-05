@@ -1,0 +1,394 @@
+2020-12-18 12:41:06,098  INFO [main] Base:46 - Opening FF browser
+2020-12-18 12:41:10,047  INFO [main] Base:50 - Getting the application url
+2020-12-18 12:41:10,111  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-18 12:41:10,875  INFO [main] Base:47 - entering doVerifyLogin Test
+2020-12-18 12:41:13,914  INFO [main] Base:49 - obtaing homepage object
+2020-12-18 12:41:13,921  INFO [main] Base:51 - getting homepage title
+2020-12-18 12:41:14,946  INFO [main] Base:58 - closing browser
+2020-12-18 12:46:49,608  INFO [main] Base:46 - Opening FF browser
+2020-12-18 12:46:53,197  INFO [main] Base:50 - Getting the application url
+2020-12-18 12:46:53,230  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-18 12:46:53,737  INFO [main] Base:47 - entering doVerifyLogin Test
+2020-12-18 12:46:56,319  INFO [main] Base:49 - obtaing homepage object
+2020-12-18 12:46:56,325  INFO [main] Base:51 - asserting title
+2020-12-18 12:46:56,751  INFO [main] Base:58 - closing browser
+2020-12-20 22:20:45,202  INFO [main] Base:46 - Opening FF browser
+2020-12-20 22:20:48,868  INFO [main] Base:50 - Getting the application url
+2020-12-20 22:20:48,946  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-20 22:20:49,553  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-20 22:20:53,052  INFO [main] Base:58 - obtaing homepage object
+2020-12-20 22:20:53,060  INFO [main] Base:60 - asserting title
+2020-12-20 22:20:53,110  INFO [main] Base:89 - closing browser
+2020-12-21 08:24:07,593  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:24:10,540  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:24:10,581  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:24:11,175  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:24:14,534  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:24:14,539  INFO [main] Base:60 - asserting title
+2020-12-21 08:24:14,567  INFO [main] Base:89 - closing browser
+2020-12-21 08:24:19,974  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:24:22,742  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:24:22,810  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:24:22,842  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:24:25,876  INFO [main] Base:79 - getting alert message
+2020-12-21 08:24:26,466  INFO [main] Base:89 - closing browser
+2020-12-21 08:24:30,799  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:24:35,062  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:24:35,130  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:24:35,160  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:24:36,548  INFO [main] Base:79 - getting alert message
+2020-12-21 08:26:37,227  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:26:40,122  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:26:40,171  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:26:40,768  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:26:43,979  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:26:43,988  INFO [main] Base:60 - asserting title
+2020-12-21 08:26:44,078  INFO [main] Base:89 - closing browser
+2020-12-21 08:26:49,227  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:26:52,194  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:26:52,213  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:26:52,239  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:26:53,680  INFO [main] Base:79 - getting alert message
+2020-12-21 08:29:17,438  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:29:20,073  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:29:20,097  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:29:20,628  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:29:23,978  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:29:23,985  INFO [main] Base:60 - asserting title
+2020-12-21 08:29:24,027  INFO [main] Base:90 - closing browser
+2020-12-21 08:29:29,459  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:29:32,215  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:29:32,274  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:29:32,302  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:29:33,706  INFO [main] Base:79 - getting alert message
+2020-12-21 08:29:34,051  INFO [main] Base:90 - closing browser
+2020-12-21 08:29:38,280  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:29:41,275  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:29:41,310  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:29:41,330  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:29:42,841  INFO [main] Base:79 - getting alert message
+2020-12-21 08:29:43,030  INFO [main] Base:90 - closing browser
+2020-12-21 08:29:47,669  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:29:50,438  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:29:50,518  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:29:50,538  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:29:52,309  INFO [main] Base:79 - getting alert message
+2020-12-21 08:29:52,525  INFO [main] Base:90 - closing browser
+2020-12-21 08:29:57,235  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:30:00,264  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:30:00,278  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:30:00,416  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:30:01,969  INFO [main] Base:79 - getting alert message
+2020-12-21 08:30:02,214  INFO [main] Base:90 - closing browser
+2020-12-21 08:31:23,437  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:31:26,009  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:31:26,143  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:31:26,768  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:31:30,812  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:31:30,823  INFO [main] Base:60 - asserting title
+2020-12-21 08:31:30,862  INFO [main] Base:90 - closing browser
+2020-12-21 08:31:36,912  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:31:39,952  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:31:40,023  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:31:40,045  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:31:41,450  INFO [main] Base:79 - getting alert message
+2020-12-21 08:31:41,873  INFO [main] Base:90 - closing browser
+2020-12-21 08:31:46,555  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:31:49,110  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:31:49,135  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:31:49,153  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:31:50,573  INFO [main] Base:79 - getting alert message
+2020-12-21 08:31:50,942  INFO [main] Base:90 - closing browser
+2020-12-21 08:31:55,508  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:31:58,412  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:31:58,437  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:31:58,454  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:31:59,834  INFO [main] Base:79 - getting alert message
+2020-12-21 08:32:00,169  INFO [main] Base:90 - closing browser
+2020-12-21 08:32:04,970  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:32:07,738  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:32:07,801  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:32:07,816  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:32:09,187  INFO [main] Base:79 - getting alert message
+2020-12-21 08:32:09,455  INFO [main] Base:90 - closing browser
+2020-12-21 08:38:12,072  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:38:14,863  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:38:14,899  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:38:15,508  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:38:18,747  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:38:18,750  INFO [main] Base:60 - asserting title
+2020-12-21 08:38:18,767  INFO [main] Base:91 - closing browser
+2020-12-21 08:38:24,727  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:38:27,230  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:38:27,247  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:38:27,267  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:38:28,749  INFO [main] Base:79 - getting alert message
+2020-12-21 08:42:59,632  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:43:02,249  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:43:02,279  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:43:02,594  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-21 08:43:05,887  INFO [main] Base:58 - obtaing homepage object
+2020-12-21 08:43:05,897  INFO [main] Base:60 - asserting title
+2020-12-21 08:43:05,958  INFO [main] Base:91 - closing browser
+2020-12-21 08:43:11,065  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:43:13,792  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:43:13,836  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:43:13,874  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:43:15,249  INFO [main] Base:79 - getting alert message
+2020-12-21 08:43:15,545  INFO [main] Base:91 - closing browser
+2020-12-21 08:43:19,442  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:43:22,409  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:43:22,454  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:43:22,492  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:43:23,959  INFO [main] Base:79 - getting alert message
+2020-12-21 08:43:24,222  INFO [main] Base:91 - closing browser
+2020-12-21 08:43:28,206  INFO [main] Base:46 - Opening FF browser
+2020-12-21 08:43:30,836  INFO [main] Base:50 - Getting the application url
+2020-12-21 08:43:30,869  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-21 08:43:30,891  INFO [main] Base:77 - entering doVerifyLogin Test
+2020-12-21 08:43:32,238  INFO [main] Base:79 - getting alert message
+2020-12-21 08:43:32,401  INFO [main] Base:91 - closing browser
+2020-12-22 10:14:53,640  INFO [main] Base:46 - Opening FF browser
+2020-12-22 10:14:56,425  INFO [main] Base:50 - Getting the application url
+2020-12-22 10:14:56,443  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-22 10:14:56,600  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-22 10:15:00,152  INFO [main] Base:58 - obtaing homepage object
+2020-12-22 10:15:00,479  INFO [main] Base:90 - closing browser
+2020-12-22 10:16:57,836  INFO [main] Base:46 - Opening FF browser
+2020-12-22 10:17:00,916  INFO [main] Base:50 - Getting the application url
+2020-12-22 10:17:00,952  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-22 10:17:01,154  INFO [main] Base:56 - entering doVerifyLogin Test
+2020-12-22 10:17:03,307  INFO [main] Base:58 - obtaing homepage object
+2020-12-22 10:17:03,350  INFO [main] Base:90 - closing browser
+2020-12-28 11:53:31,185  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:53:34,119  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:53:34,138  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:53:58,572  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:54:01,370  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:54:01,400  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:54:05,434  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:54:08,146  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:54:08,168  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:54:12,159  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:54:15,073  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:54:15,113  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:54:39,187  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:57:35,740  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:57:38,406  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:57:38,429  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:57:45,721  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:57:48,325  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:57:48,344  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:57:54,741  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:57:57,611  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:57:57,631  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:58:04,436  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:58:07,316  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:58:07,325  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:58:14,072  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:58:16,724  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:58:16,736  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 11:58:23,258  INFO [main] Base:46 - Opening FF browser
+2020-12-28 11:58:25,764  INFO [main] Base:50 - Getting the application url
+2020-12-28 11:58:25,794  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:03:54,309  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:03:57,093  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:03:57,114  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:06:26,557  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:06:29,330  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:06:29,366  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:07:16,902  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:07:19,355  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:07:19,398  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:07:46,650  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:07:49,454  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:07:49,465  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:08:16,421  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:08:19,147  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:08:19,160  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:09:06,514  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:09:09,340  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:09:09,357  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:09:56,205  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:09:58,728  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:09:58,754  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:13:53,509  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:13:56,143  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:13:56,162  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:14:25,797  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:14:28,558  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:14:28,571  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:14:55,924  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:14:58,281  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:14:58,315  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:15:25,497  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:15:28,222  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:15:28,233  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:15:55,554  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:15:58,350  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:15:58,360  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:16:25,084  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:16:27,766  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:16:27,777  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:22:13,567  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:22:16,522  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:22:16,540  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:25:28,583  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:25:30,981  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:25:30,997  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:27:51,818  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:27:55,061  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:27:55,149  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:35:24,958  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:35:27,591  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:35:27,640  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:38:06,943  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:38:09,651  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:38:09,681  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:38:33,225  INFO [main] Base:54 - link enabled
+2020-12-28 12:39:54,688  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:39:57,516  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:39:57,550  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:42:54,981  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:42:57,734  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:42:57,756  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:47:50,594  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:47:53,063  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:47:53,098  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 12:52:40,064  INFO [main] Base:46 - Opening FF browser
+2020-12-28 12:52:42,833  INFO [main] Base:50 - Getting the application url
+2020-12-28 12:52:42,857  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 13:14:44,992  INFO [main] Base:46 - Opening FF browser
+2020-12-28 13:14:47,846  INFO [main] Base:50 - Getting the application url
+2020-12-28 13:14:47,869  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 13:22:59,981  INFO [main] Base:46 - Opening FF browser
+2020-12-28 13:23:02,106  INFO [main] Base:50 - Getting the application url
+2020-12-28 13:23:02,126  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 13:23:45,507  INFO [main] Base:59 - link enabled
+2020-12-28 14:00:07,733  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:00:11,223  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:00:11,285  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:02:48,392  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:02:51,143  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:02:51,200  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:05:33,044  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:05:36,622  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:05:36,685  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:06:20,816  INFO [main] Base:64 - link enabled
+2020-12-28 14:09:06,493  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:09:08,962  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:09:09,030  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:11:49,590  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:11:52,408  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:11:52,461  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:19:06,930  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:19:10,546  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:19:10,625  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:27:06,223  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:27:09,104  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:27:09,170  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:36:49,641  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:36:52,613  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:36:52,646  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 14:50:09,489  INFO [main] Base:46 - Opening FF browser
+2020-12-28 14:50:12,963  INFO [main] Base:50 - Getting the application url
+2020-12-28 14:50:12,995  INFO [main] Base:53 - Maximising window and deletine the cookies
+2020-12-28 17:01:11,105  INFO [main] Base:48 - Opening FF browser
+2020-12-28 17:01:14,102  INFO [main] Base:52 - Getting the application url
+2020-12-28 17:01:14,166  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-28 17:04:05,450  INFO [main] Base:48 - Opening FF browser
+2020-12-28 17:04:08,709  INFO [main] Base:52 - Getting the application url
+2020-12-28 17:04:08,759  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-28 17:04:16,404  INFO [main] Base:48 - Opening FF browser
+2020-12-28 17:04:19,530  INFO [main] Base:52 - Getting the application url
+2020-12-28 17:04:19,549  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 08:53:03,579  INFO [main] Base:48 - Opening FF browser
+2020-12-29 08:53:06,867  INFO [main] Base:52 - Getting the application url
+2020-12-29 08:53:06,961  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 08:53:59,834  INFO [main] Base:48 - Opening FF browser
+2020-12-29 08:54:03,446  INFO [main] Base:52 - Getting the application url
+2020-12-29 08:54:03,515  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 08:55:52,779  INFO [main] Base:48 - Opening FF browser
+2020-12-29 08:55:56,115  INFO [main] Base:52 - Getting the application url
+2020-12-29 08:55:56,164  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 08:57:28,673  INFO [main] Base:48 - Opening FF browser
+2020-12-29 08:57:31,658  INFO [main] Base:52 - Getting the application url
+2020-12-29 08:57:31,713  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:03:25,563  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:03:28,421  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:03:28,495  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:04:21,560  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:04:24,630  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:04:24,645  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:42:04,657  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:42:07,676  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:42:07,743  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:43:41,309  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:43:44,905  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:43:44,939  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:50:53,521  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:50:56,302  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:50:56,321  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:52:29,054  INFO [main] Base:48 - Opening FF browser
+2020-12-29 09:52:31,672  INFO [main] Base:52 - Getting the application url
+2020-12-29 09:52:31,690  INFO [main] Base:55 - Maximising window and deletine the cookies
+2020-12-29 09:58:31,096  INFO [main] Base:50 - Opening FF browser
+2020-12-29 09:58:33,982  INFO [main] Base:55 - Getting the application url
+2020-12-29 09:58:34,014  INFO [main] Base:58 - Maximising window and deletine the cookies
+2020-12-29 10:00:06,333  INFO [main] Base:50 - Opening FF browser
+2020-12-29 10:00:09,284  INFO [main] Base:55 - Getting the application url
+2020-12-29 10:00:09,332  INFO [main] Base:58 - Maximising window and deletine the cookies
+2020-12-29 10:04:09,374  INFO [main] Base:50 - Opening FF browser
+2020-12-29 10:04:12,195  INFO [main] Base:55 - Getting the application url
+2020-12-29 10:04:12,222  INFO [main] Base:58 - Maximising window and deletine the cookies
+2020-12-29 10:05:44,227  INFO [main] Base:50 - Opening FF browser
+2020-12-29 10:05:46,791  INFO [main] Base:55 - Getting the application url
+2020-12-29 10:05:46,824  INFO [main] Base:58 - Maximising window and deletine the cookies
+2020-12-29 11:03:53,998  INFO [main] Base:50 - Opening FF browser
+2020-12-29 11:03:56,835  INFO [main] Base:55 - Getting the application url
+2020-12-29 11:03:56,858  INFO [main] Base:58 - Maximising window and deletine the cookies
+2020-12-29 11:05:29,435  INFO [main] Base:50 - Opening FF browser
+2020-12-29 11:05:32,780  INFO [main] Base:55 - Getting the application url
+2020-12-29 11:05:32,800  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 15:13:35,868  INFO [main] Base:50 - Opening FF browser
+2021-01-20 15:13:37,608  INFO [main] Base:55 - Getting the application url
+2021-01-20 15:13:37,628  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 15:13:37,762  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 15:13:39,148  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 15:13:39,508  INFO [main] Base:90 - closing browser
+2021-01-20 16:28:27,830  INFO [main] Base:50 - Opening FF browser
+2021-01-20 16:28:29,331  INFO [main] Base:55 - Getting the application url
+2021-01-20 16:28:29,360  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 16:28:29,541  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 16:28:30,889  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 16:28:31,283  INFO [main] Base:90 - closing browser
+2021-01-20 16:29:32,823  INFO [main] Base:50 - Opening FF browser
+2021-01-20 16:29:34,400  INFO [main] Base:55 - Getting the application url
+2021-01-20 16:29:34,421  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 16:29:34,583  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 16:29:35,978  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 16:29:36,342  INFO [main] Base:90 - closing browser
+2021-01-20 16:30:30,835  INFO [main] Base:50 - Opening FF browser
+2021-01-20 16:30:32,344  INFO [main] Base:55 - Getting the application url
+2021-01-20 16:30:32,365  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 16:30:32,556  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 16:30:33,951  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 16:30:34,342  INFO [main] Base:90 - closing browser
+2021-01-20 21:50:26,563  INFO [main] Base:50 - Opening FF browser
+2021-01-20 21:50:28,104  INFO [main] Base:55 - Getting the application url
+2021-01-20 21:50:28,136  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 21:50:28,253  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 21:50:29,657  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 21:50:29,979  INFO [main] Base:90 - closing browser
+2021-01-20 21:51:14,031  INFO [main] Base:50 - Opening FF browser
+2021-01-20 21:51:15,560  INFO [main] Base:55 - Getting the application url
+2021-01-20 21:51:15,583  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 21:51:15,717  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 21:51:17,085  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 21:51:17,478  INFO [main] Base:90 - closing browser
+2021-01-20 21:52:14,547  INFO [main] Base:50 - Opening FF browser
+2021-01-20 21:52:15,921  INFO [main] Base:55 - Getting the application url
+2021-01-20 21:52:15,950  INFO [main] Base:58 - Maximising window and deletine the cookies
+2021-01-20 21:52:16,097  INFO [main] Base:56 - entering doVerifyLogin Test
+2021-01-20 21:52:17,519  INFO [main] Base:58 - obtaing homepage object
+2021-01-20 21:52:17,907  INFO [main] Base:90 - closing browser

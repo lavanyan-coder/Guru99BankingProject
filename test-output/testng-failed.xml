@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Guru99 Banking Test Suite]" verbose="5">
+  <listeners>
+    <listener class-name="com.guru99banking.AllureReportListener.TestAllureListener"/>
+  </listeners>
+  <test name="Login Test(failed)">
+    <classes>
+      <class name="com.guru99banking.tcs.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="doVerifyLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.guru99banking.tcs.LoginPageTest -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+</suite> <!-- Failed suite [Guru99 Banking Test Suite] -->

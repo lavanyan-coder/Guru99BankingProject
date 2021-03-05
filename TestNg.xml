@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Guru99 Banking Test Suite" verbose="5" >
+	 <listeners>
+	   <!--  <listener class-name="com.FreeCrm.qa.ExtentReport.Listener.ExtentReporterNG" /> -->
+	    <listener class-name = "com.guru99banking.AllureReportListener.TestAllureListener" />
+	 </listeners>
+
+  <test name="Login Test" >
+	    <classes>
+	       <class name="com.guru99banking.tcs.LoginPageTest" />
+	        <!-- <class name="com.FreeCrm.qa.TestCases.HomePageTest" />
+	         <class name="com.FreeCrm.qa.TestCases.ContactsTest" /> -->
+	    </classes>
+  </test>
+</suite>
